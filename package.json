@@ -1,0 +1,23 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "My notes app using NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinonsoIg/notes-app.git"
+  },
+  "author": "Chinonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinonsoIg/notes-app/issues"
+  },
+  "homepage": "https://github.com/ChinonsoIg/notes-app#readme",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
+}
